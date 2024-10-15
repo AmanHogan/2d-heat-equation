@@ -1,0 +1,3 @@
+Grid size N = 100, Error = 0.000070
+Grid size N = 200, Error = 0.000017
+Grid size N = 400, Error = 0.000004

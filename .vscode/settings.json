@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "math.h": "c",
+        "omp.h": "c",
+        "stdlib.h": "c"
+    }
+}
